@@ -203,4 +203,5 @@ Semana2/Data/train_v2_sampled
 Semana2/Data/checkpoint.model
 Semana2/t_pl_f
 Semana3/bbc_training_losses_weights.pth
+Semana3/Data/Reviews.csv
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
