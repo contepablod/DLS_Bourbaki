@@ -205,4 +205,5 @@ Semana2/t_pl_f
 Semana3/bbc_training_losses_weights.pth
 Semana3/Data/Reviews.csv
 Semana3/Data/Model
+Semana4/Temporal_Difussion_Transformer.ipynb
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
