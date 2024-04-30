@@ -193,6 +193,7 @@ pyrightconfig.json
 .ionide
 .env
 
+#Files
 Semana2/Data/Model
 Semana2/Data/chest_xray
 Semana2/checkpoint.pt
