@@ -209,4 +209,6 @@ Semana3/Data/Model
 Semana4/distilgpt2-finetuned-microbiology
 Semana6/Data/reduced_images
 Semana6/Data/Model
+Semana6/Data/CLIP_Images
+Semana6/best.pt
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
